@@ -1,0 +1,4 @@
+matplotlib
+datasets
+transformers
+wordcloud
