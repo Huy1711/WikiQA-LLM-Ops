@@ -397,6 +397,9 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# Model
+/vinallama-7b
+
 # Databases
 /volumes
 

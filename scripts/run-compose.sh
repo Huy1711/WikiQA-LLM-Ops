@@ -1,0 +1,1 @@
+source deploy/compose/compose.env;  docker-compose -f deploy/compose/docker-compose.yaml build
